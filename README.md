@@ -8,3 +8,4 @@ In this presentation, and through these playgrounds, I demonstrate how to take a
 in Swift Playgrounds to develop effects that are worthwhile can can elevate you app. Free yourself of the tyranny of the
 edit-compile-run cycle, and get some cool (and fun) things happening!
 
+Be sure to open the Assistant View (locked rings) to see the samples in operation.
