@@ -9,3 +9,5 @@ in Swift Playgrounds to develop effects that are worthwhile can can elevate you 
 edit-compile-run cycle, and get some cool (and fun) things happening!
 
 Be sure to open the Assistant View (locked rings) to see the samples in operation.
+
+A video of the full presentation is available at https://www.youtube.com/watch?v=bw11HjQyrtE
